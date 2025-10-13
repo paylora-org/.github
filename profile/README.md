@@ -23,7 +23,7 @@
 
 ### **Our Projects**
 
-* **[paylora-contracts](https://github.com/paylora-org/paylora-contracts)**: The core upgradeable (UUPS) smart contract for payment processing.
+* **[paylora-contract](https://github.com/paylora-org/paylora-contract)**: The core upgradeable (UUPS) smart contract for payment processing.
 * **[paylora-api](https://github.com/paylora-org/paylora-api)**: The backend service, including the Merchant API and dashboard.
 * **[ui-sdk](https://github.com/paylora-org/ui-sdk)**: The frontend UI-SDK for easy integration of the payment button.
 
