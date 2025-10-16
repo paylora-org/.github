@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://paylora.org/assets/paylora-logo-new-C5zVTwo2.png" alt="Paylora Logo" width="150">
+  <img src="https://paylora-org.s3.eu-central-1.amazonaws.com/logo/paylora_logo.jpeg" alt="Paylora Logo" width="150">
 </p>
 
 <h1 align="center">Welcome to Paylora</h1>
