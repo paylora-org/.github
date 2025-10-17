@@ -26,6 +26,8 @@
 * **[paylora-contract](https://github.com/paylora-org/paylora-contract)**: The core upgradeable (UUPS) smart contract for payment processing.
 * **[paylora-api](https://github.com/paylora-org/paylora-api)**: The backend service, including the Merchant API and dashboard.
 * **[ui-sdk](https://github.com/paylora-org/ui-sdk)**: The frontend UI-SDK for easy integration of the payment button.
+* **[Telegram Bot](https://t.me/paylora_bot)**: Our official Telegram bot for creating payment posts and managing your account via the Mini App.
+* **[Merchant Portal](https://app.paylora.org)**: The main web application for merchants to track transactions and manage API keys
 
 ### **Technology Stack**
 
